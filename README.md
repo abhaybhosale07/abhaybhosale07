@@ -8,6 +8,7 @@
 - I hold a Bachelor's degree in Economics from Karnataka Arts College, Dharwad.
 - Transitioned from No-Code Mastery to writing my own code to develop functional and scalable applications.
 - Experienced in creating AI-powered apps, marketplaces, and blogging platforms using Bubble and now exploring deeper into backend technologies with Node.js.
+- My portfolio [https://abhaybosale.github.io/My-Portfolio/].
 
   
   🛠️ Skills
