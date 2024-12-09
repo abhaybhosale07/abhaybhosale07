@@ -1,44 +1,71 @@
-  👋 Hi there! I'm Abhay J Bhosale
-- 🎓 Economist turned Tech Enthusiast
-- 🌱 Currently enhancing my Backend Development skills
-- 💡 Passionate about building projects that solve real-world problems
+# Hi there! 👋 I'm Abhay J Bhosale
 
-  
-  🚀 About Me
-- I hold a Bachelor's degree in Economics from Karnataka Arts College, Dharwad.
-- Transitioned from No-Code Mastery to writing my own code to develop functional and scalable applications.
-- Experienced in creating AI-powered apps, marketplaces, and blogging platforms using Bubble and now exploring deeper into backend technologies with Node.js.
-- My portfolio [https://abhaybosale.github.io/My-Portfolio/].
+Welcome to my GitHub profile! I'm a passionate developer with a background in Economics and a love for building meaningful projects that combine creativity with technology. I specialize in no-code and low-code development while constantly improving my coding skills.
 
-  
-  🛠️ Skills
-  
-  Backend:
-- Node.js (Learning and building projects!)
-- APIs (Design & Integration)
-  
-  Frontend:
-- Responsive Web Design
-- Web application prototyping
-  
-  No-Code Tools:
-- Bubble
-- Stripe integration
+---
 
+## 📜 About Me
 
-  📚 Current Projects
-- Building my backend expertise with hands-on projects in VS Code.
-- Creating platforms that simplify user experiences by providing guidance about websites and apps.
+- 🎓 **Education:** Bachelor of Arts (Economics) at Karnataka Arts College Dharwad
+- 🧑‍💻 **Developer Skills:** HTML, CSS, JavaScript, Node.js, Express.js
+- 💼 **Interests:** Backend Development, No-Code/Low-Code Platforms, AI Integration, and Web Development
+- ⚽ **Hobbies:** Badminton and Fitness Enthusiast
 
+---
 
-  🌟 Achievements
-- Developed a social publishing platform
-- Built an AI-powered app for content generation and image creation with payment integrations.
-- Designed a marketplace similar to Airbnb with booking, chat, and payment features.
+## 🚀 Skills
 
+### Technical Skills:
+- **Languages & Frameworks:** HTML, CSS, JavaScript, Node.js, Express.js
+- **Tools & Platforms:** VS Code, Bubble.io, Git, Postman
+- **Database:** MongoDB (Basics)
 
-  🤝 Let's Connect!
-- LinkedIn: [https://www.linkedin.com/in/abhay-bhosale-93aa67294/]
+### Soft Skills:
+- Leadership & Teamwork
+- Problem Solving
+- Adaptability
 
+---
 
+## 🛠️ Projects
+
+### 1. **[Helper AI](https://helper-ai-16258.bubbleapps.io/version-test?debug_mode=true)**
+   - A Bubble-based platform providing guidance about different websites and applications.
+   - Integrated AI capabilities for improved user experience.
+
+### 2. **[Write AI](https://writeai-95839.bubbleapps.io/version-test)**
+   - An AI-powered application similar to Copy AI and Jasper AI.
+   - Generates content and images with integrated Stripe payments.
+
+### 3. **[Skybnb](https://skybnb-10904.bubbleapps.io/version-test/)**
+   - A marketplace platform inspired by Airbnb.
+   - Includes booking systems, chat functionality, and payment integrations.
+
+### 4. **Personal Budget API**
+   - Built using Node.js and Express.js.
+   - Implements the envelope budgeting system.
+   - REST API to manage budgets and expenses efficiently.
+
+### 5. **Joke Generator**
+   - A simple HTML/JS project generating jokes using APIs.
+   - User-friendly interface for quick entertainment.
+
+---
+
+## 🏆 Certifications
+
+- [JavaScript Algorithms and Data Structures Certification (FreeCodeCamp)](https://freecodecamp.org/certification/abhaybhosale/javascript-algorithms-and-data-structures-v8)
+- [Responsive Web Design Certification (FreeCodeCamp)](https://freecodecamp.org/certification/abhaybhosale/responsive-web-design)
+- [No-Code Mastery (Udemy)](https://www.udemy.com/certificate/UC-bac68624-8cce-4872-8d86-7cb2b7566587/)
+
+---
+
+## 🔗 Let's Connect
+
+- **LinkedIn:** [Abhay Bhosale](https://www.linkedin.com/in/abhay-bhosale-93aa67294/)
+- **GitHub:** [github.com/abhaybhosale](https://github.com/abhaybhosale)
+
+---
+
+Feel free to explore my repositories and projects. I'm always open to collaboration and discussions on interesting ideas!
 
