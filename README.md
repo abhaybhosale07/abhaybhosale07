@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in Ec
    - Implements the envelope budgeting system.
    - REST API to manage budgets and expenses efficiently.
 
-### 5. **Joke Generator**
+### 5. **[Joke Generator](https://abhaybhosale07.github.io/project-1/)**
    - A simple HTML/JS project generating jokes using APIs.
    - User-friendly interface for quick entertainment.
 
