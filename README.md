@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in Ec
 ## 🔗 Let's Connect
 
 - **LinkedIn:** [Abhay Bhosale](https://www.linkedin.com/in/abhay-bhosale-93aa67294/)
-- **GitHub:** [github.com/abhaybhosale](https://github.com/abhaybhosale)
+- **GitHub:** [github.com/abhaybhosale](https://github.com/abhaybhosale07)
 
 ---
 
