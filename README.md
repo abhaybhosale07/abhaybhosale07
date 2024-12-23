@@ -50,6 +50,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in Ec
    - A simple HTML/JS project generating jokes using APIs.
    - User-friendly interface for quick entertainment.
 
+### 6. **[A prototype project](https://abhaybhosale07.github.io/project-2/)**
+   - A website which will provide the certificate on educational videos on youtube.
+   - used HTML/CSS/JS to build the website
+     
 ---
 
 ## 🏆 Certifications
