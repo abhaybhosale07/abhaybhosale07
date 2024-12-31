@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in Ec
 
 ### Technical Skills:
 - **Languages & Frameworks:** HTML, CSS, JavaScript, Node.js, Express.js
-- **Tools & Platforms:** VS Code, Bubble.io, Git, Postman
+- **Tools & Platforms:** VS Code, Bubble.io, Git, Postman, Github
 - **Database:** MongoDB (Basics)
 
 ### Soft Skills:
@@ -61,6 +61,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in Ec
 - [JavaScript Algorithms and Data Structures Certification (FreeCodeCamp)](https://freecodecamp.org/certification/abhaybhosale/javascript-algorithms-and-data-structures-v8)
 - [Responsive Web Design Certification (FreeCodeCamp)](https://freecodecamp.org/certification/abhaybhosale/responsive-web-design)
 - [No-Code Mastery (Udemy)](https://www.udemy.com/certificate/UC-bac68624-8cce-4872-8d86-7cb2b7566587/)
+- [Git & Github](https://www.codecademy.com/profiles/abhaybhosale/certificates/a8ab218d5950c29861635cc0bf12fd13)
 
 ---
 
